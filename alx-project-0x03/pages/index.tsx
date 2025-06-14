@@ -1,8 +1,8 @@
-const Home: React.FC = () => {
+const Home = () => {
   return (
-    <div>
-      <h1>Welcome to Splash App</h1>
-    </div>
+   <div>
+      <h1> Welcome to Splash App </h1>
+   </div>
   )
 }
 

@@ -10,8 +10,8 @@ const Header: React.FC = () => {
         </Link>
 
         <div className="flex gap-4">
-          <Button buttonLable="Sign In" buttonBackgroundColor="red" />
-          <Button buttonLable="Sign Up" buttonBackgroundColor="blue" />
+          <Button buttonLabel="Sign In" buttonBackgroundColor="red" />
+          <Button buttonLabel="Sign Up" buttonBackgroundColor="blue" />
         </div>
       </div>
     </header>
